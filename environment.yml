@@ -1,0 +1,6 @@
+name: sentiment-analysis
+dependencies:
+  - python
+  - pip
+  - pip:
+      - poetry
